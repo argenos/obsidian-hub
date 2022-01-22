@@ -143,7 +143,8 @@ Please turn on the spellchecking when you are writing longer bits. 🙂 (And onl
 
 ==Before submission, remember to revert the Community Vault to its basic settings, e.g. remove installed plugins, turn on spellchecking, and change any other unusual settings back to how they previously were.== Most importantly, this concerns the [[CONTRIBUTING#Setup Vault Consistency|settings relevant to Vault consistency mentioned above]].
 
-If you know how to use git and GitHub, go on and make a pull request. Otherwise you might be interested in reading [[How to add content through GitHub]] (we've tried to make it as friendly and assume as little background knowledge as possible!).
+If you know how to use git and GitHub, go on and make a pull request. Otherwise you might be interested in reading [[How to add content through GitHub]] (we've tried to make it as friendly and assume as little background knowledge as possible!). 
+[[Editing notes using the github.dev editor]]
 
 ## Reporting broken (external) links, typos or mistakes
 
